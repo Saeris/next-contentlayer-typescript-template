@@ -1,2 +1,1 @@
-# next-contentlayer-typescript-template
-Created with CodeSandbox
+# Nextjs + ContentLayer + Typescript Template

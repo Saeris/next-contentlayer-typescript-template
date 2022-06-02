@@ -1,0 +1,46 @@
+{
+  "name": "next-contentlayer-typescropt-template",
+  "description": "",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "main": "./src/pages/index.tsx",
+  "dependencies": {
+    "@fontsource/noto-sans": "4.5.10",
+    "@jsdevtools/rehype-url-inspector": "^2.0.2",
+    "contentlayer": "^0.2.5",
+    "date-fns": "2.28.0",
+    "next": "12.1.6",
+    "next-contentlayer": "^0.2.5",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "rehype-accessible-emojis": "^0.3.2",
+    "rehype-autolink-headings": "^6.1.1",
+    "rehype-img-size": "^1.0.1",
+    "rehype-slug": "^5.0.1",
+    "remark-gfm": "^3.0.1",
+    "styled-components": "5.3.5"
+  },
+  "resolutions": {
+    "@types/react": "18.0.10"
+  },
+  "devDependencies": {
+    "@saeris/eslint-config": "^2.1.0",
+    "@types/eslint": "^8.4.2",
+    "@types/jest": "^27.5.1",
+    "@types/node": "17.0.38",
+    "@types/react": "18.0.10",
+    "@types/react-dom": "18.0.5",
+    "@types/styled-components": "5.1.25",
+    "eslint": "^8.16.0",
+    "jest": "^28.1.0",
+    "prettier": "^2.6.2",
+    "typescript": "4.7.2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "First Post",
+  "date": "2022-06-01T00:00:00.000Z",
+  "body": {
+    "raw": "\r\n# First Post\r\n\r\nThis is an example blog post with some images of cats.\r\n\r\n![By Jacalyn Beales](./images/jacalyn-beales-Xsp_ziBrays-unsplash.jpg)\r\n\r\n![By Karina Vorozheeva](./images/karina-vorozheeva-rW-I87aPY5Y-unsplash.jpg)\r\n\r\n![By Zeke Tucker](./images/zeke-tucker-gSSK4u8yPpM-unsplash.jpg)",
+    "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,d=Object.prototype.hasOwnProperty;var u=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var a in e)r(t,a,{get:e[a],enumerable:!0})},o=(t,e,a,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of g(e))!d.call(t,i)&&i!==a&&r(t,i,{get:()=>e[i],enumerable:!(s=l(e,i))||s.enumerable});return t};var j=(t,e,a)=>(a=t!=null?p(m(t)):{},o(e||!t||!t.__esModule?r(a,\"default\",{value:t,enumerable:!0}):a,t)),x=t=>o(r({},\"__esModule\",{value:!0}),t);var h=u((B,c)=>{c.exports=_jsx_runtime});var k={};f(k,{default:()=>_,frontmatter:()=>b});var n=j(h()),b={title:\"First Post\",date:new Date(16540416e5)};function y(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,Object.assign({},t,{children:(0,n.jsx)(a,{})})):a();function a(){let s=Object.assign({h1:\"h1\",a:\"a\",span:\"span\",p:\"p\",img:\"img\"},t.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(s.h1,{id:\"first-post\",children:[(0,n.jsx)(s.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#first-post\",children:(0,n.jsx)(s.span,{className:\"icon icon-link\"})}),\"First Post\"]}),`\n`,(0,n.jsx)(s.p,{children:\"This is an example blog post with some images of cats.\"}),`\n`,(0,n.jsx)(s.p,{children:(0,n.jsx)(s.img,{src:\"/content/blog/first-post/images/jacalyn-beales-Xsp_ziBrays-unsplash.jpg\",alt:\"By Jacalyn Beales\",width:\"1920\",height:\"2880\"})}),`\n`,(0,n.jsx)(s.p,{children:(0,n.jsx)(s.img,{src:\"/content/blog/first-post/images/karina-vorozheeva-rW-I87aPY5Y-unsplash.jpg\",alt:\"By Karina Vorozheeva\",width:\"640\",height:\"960\"})}),`\n`,(0,n.jsx)(s.p,{children:(0,n.jsx)(s.img,{src:\"/content/blog/first-post/images/zeke-tucker-gSSK4u8yPpM-unsplash.jpg\",alt:\"By Zeke Tucker\",width:\"1920\",height:\"1280\"})})]})}}var _=y;return x(k);})();\n;return Component;"
+  },
+  "_id": "content/blog/first-post/first-post.mdx",
+  "_raw": {
+    "sourceFilePath": "content/blog/first-post/first-post.mdx",
+    "sourceFileName": "first-post.mdx",
+    "sourceFileDir": "content/blog/first-post",
+    "contentType": "mdx",
+    "flattenedPath": "content/blog/first-post/first-post"
+  },
+  "type": "Post",
+  "url": "/blog/first-post",
+  "contentRoot": "content/blog/first-post"
+}

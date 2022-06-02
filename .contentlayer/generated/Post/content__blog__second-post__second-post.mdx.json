@@ -1,0 +1,19 @@
+{
+  "title": "Second Post",
+  "date": "2022-06-02T00:00:00.000Z",
+  "body": {
+    "raw": "\r\n# Second Post\r\n\r\nThis is an example blog post with some images of trees.\r\n\r\n![By Matthew Smith](./images/matthew-smith-rFBA42UFpLs-unsplash.jpg)\r\n\r\n![By Lukasz Szmigiel](./images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg)\r\n\r\n![By Luca Bravo](./images/luca-bravo-ESkw2ayO2As-unsplash.jpg)",
+    "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var u=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),j=(t,e)=>{for(var a in e)o(t,a,{get:e[a],enumerable:!0})},c=(t,e,a,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of m(e))!g.call(t,i)&&i!==a&&o(t,i,{get:()=>e[i],enumerable:!(s=l(e,i))||s.enumerable});return t};var x=(t,e,a)=>(a=t!=null?p(d(t)):{},c(e||!t||!t.__esModule?o(a,\"default\",{value:t,enumerable:!0}):a,t)),w=t=>c(o({},\"__esModule\",{value:!0}),t);var h=u((B,r)=>{r.exports=_jsx_runtime});var F={};j(F,{default:()=>_,frontmatter:()=>b});var n=x(h()),b={title:\"Second Post\",date:new Date(1654128e6)};function f(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,Object.assign({},t,{children:(0,n.jsx)(a,{})})):a();function a(){let s=Object.assign({h1:\"h1\",a:\"a\",span:\"span\",p:\"p\",img:\"img\"},t.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(s.h1,{id:\"second-post\",children:[(0,n.jsx)(s.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#second-post\",children:(0,n.jsx)(s.span,{className:\"icon icon-link\"})}),\"Second Post\"]}),`\n`,(0,n.jsx)(s.p,{children:\"This is an example blog post with some images of trees.\"}),`\n`,(0,n.jsx)(s.p,{children:(0,n.jsx)(s.img,{src:\"/content/blog/second-post/images/matthew-smith-rFBA42UFpLs-unsplash.jpg\",alt:\"By Matthew Smith\",width:\"1920\",height:\"2880\"})}),`\n`,(0,n.jsx)(s.p,{children:(0,n.jsx)(s.img,{src:\"/content/blog/second-post/images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg\",alt:\"By Lukasz Szmigiel\",width:\"1920\",height:\"1279\"})}),`\n`,(0,n.jsx)(s.p,{children:(0,n.jsx)(s.img,{src:\"/content/blog/second-post/images/luca-bravo-ESkw2ayO2As-unsplash.jpg\",alt:\"By Luca Bravo\",width:\"1920\",height:\"1325\"})})]})}}var _=f;return w(F);})();\n;return Component;"
+  },
+  "_id": "content/blog/second-post/second-post.mdx",
+  "_raw": {
+    "sourceFilePath": "content/blog/second-post/second-post.mdx",
+    "sourceFileName": "second-post.mdx",
+    "sourceFileDir": "content/blog/second-post",
+    "contentType": "mdx",
+    "flattenedPath": "content/blog/second-post/second-post"
+  },
+  "type": "Post",
+  "url": "/blog/second-post",
+  "contentRoot": "content/blog/second-post"
+}
